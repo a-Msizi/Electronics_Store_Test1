@@ -1,0 +1,18 @@
+GAMING CONSOLE REPORT
+======================
+CITY                     PS5      XBOX    SWITCH
+Cape Town               1000      2000      3000
+Port Elizabeth          2000      3000      4000
+Pretoria                1500      1100      1200
+
+CONSOLE SALES TOTALS FOR EACH CITY
+==================================
+Cape Town         6000
+Port Elizabeth    9000
+Pretoria          3800
+
+CITY WITH THE MOST SALES: Port Elizabeth
+TOTAL SALES: 9000
+
+Cities loaded: [Cape Town, Port Elizabeth, Pretoria]
+Consoles loaded: [PS5, XBOX, SWITCH]

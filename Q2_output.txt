@@ -1,0 +1,10 @@
+Select the console type
+1) PS5
+2) XBOX
+3) SWITCH
+Enter your choice: Enter the store: Enter the total amount of sales for PS5 for Number 1 Electronics Store: 
+CONSOLE SALES REPORT
+====================
+CONSOLE TYPE: PS5
+STORE: Number 1 Electronics Store
+TOTAL SALES: 500
